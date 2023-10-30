@@ -14,4 +14,5 @@ document.addEventListener('DOMContentLoaded' , () => {
     const gameOverElem = document.getElementById('game-over');
 
     // Score güncellemek için foksiyon
+    function
 })
